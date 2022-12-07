@@ -1,0 +1,2 @@
+let s = "BINDHU";
+for
